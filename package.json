@@ -2,6 +2,7 @@
   "name": "seo-audit-agent",
   "version": "1.0.0",
   "description": "SEO Audit Agent using Node.js and Gemini API",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vercel dev",
